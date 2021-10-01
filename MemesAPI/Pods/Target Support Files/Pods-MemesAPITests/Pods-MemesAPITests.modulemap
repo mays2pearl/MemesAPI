@@ -1,0 +1,6 @@
+framework module Pods_MemesAPITests {
+  umbrella header "Pods-MemesAPITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
